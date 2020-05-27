@@ -1,3 +1,3 @@
 # Sidx-sys
 ~~~~
-## Learning
+## Made a custom navbar from scratch
